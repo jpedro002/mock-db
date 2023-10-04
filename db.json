@@ -1,0 +1,434 @@
+{
+  "produtos": [
+    {
+      "id": "_b688nxpb9",
+      "nome": "Produto _b688nxpb9",
+      "descrição": "Descrição do Produto _b688nxpb9",
+      "ingredientes": [
+        {
+          "id": "_gehuujs4y",
+          "nome": "Leite",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 3.3227312434413383
+        },
+        {
+          "id": "_d939h8fbn",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 10.294935180980834
+        },
+        {
+          "id": "_nbcoxyfsq",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 6.983356615308697
+        },
+        {
+          "id": "_dxjkik66g",
+          "nome": "Leite",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 4.361060763901554
+        },
+        {
+          "id": "_sd7hwu2h6",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 2.7025997312319885
+        }
+      ],
+      "categoria": "Categoria do Produto _b688nxpb9"
+    },
+    {
+      "id": "_an16gy6do",
+      "nome": "Produto _an16gy6do",
+      "descrição": "Descrição do Produto _an16gy6do",
+      "ingredientes": [
+        {
+          "id": "_0hib5j8hg",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 10.649811397079763
+        },
+        {
+          "id": "_4uxk6l59l",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "L",
+          "custoUnitario": 7.13721384551233
+        },
+        {
+          "id": "_gmw06yomh",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 6.759037171242765
+        },
+        {
+          "id": "_wxdm6h0u6",
+          "nome": "Sal",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 10.437517808965513
+        },
+        {
+          "id": "_i1btouxga",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 1.2377291011028748
+        }
+      ],
+      "categoria": "Categoria do Produto _an16gy6do"
+    },
+    {
+      "id": "_g82eazply",
+      "nome": "Produto _g82eazply",
+      "descrição": "Descrição do Produto _g82eazply",
+      "ingredientes": [
+        {
+          "id": "_t6850xrdg",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 6.755619020757097
+        },
+        {
+          "id": "_h71lde44k",
+          "nome": "Sal",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 5.368446878824869
+        },
+        {
+          "id": "_zkxrhxgv9",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 4.120171770809264
+        },
+        {
+          "id": "_m49edugfq",
+          "nome": "Leite",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 1.437514883400092
+        },
+        {
+          "id": "_3gxh9dcps",
+          "nome": "Sal",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 4.383960002568802
+        }
+      ],
+      "categoria": "Categoria do Produto _g82eazply"
+    },
+    {
+      "id": "_jvnru11y0",
+      "nome": "Produto _jvnru11y0",
+      "descrição": "Descrição do Produto _jvnru11y0",
+      "ingredientes": [
+        {
+          "id": "_ae2tqz02t",
+          "nome": "Sal",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 5.016691191776413
+        },
+        {
+          "id": "_c1m100zix",
+          "nome": "Leite",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 2.042600015446038
+        },
+        {
+          "id": "_d3w08hylx",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 2.971586992316625
+        },
+        {
+          "id": "_acwxfxv60",
+          "nome": "Sal",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 6.402576524549561
+        },
+        {
+          "id": "_wcz73pnp6",
+          "nome": "Leite",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 3.231771062722987
+        }
+      ],
+      "categoria": "Categoria do Produto _jvnru11y0"
+    },
+    {
+      "id": "_4wza1gky7",
+      "nome": "Produto _4wza1gky7",
+      "descrição": "Descrição do Produto _4wza1gky7",
+      "ingredientes": [
+        {
+          "id": "_x3mx872u5",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 9.887649819637986
+        },
+        {
+          "id": "_z9vxljm69",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 1.8980599450527782
+        },
+        {
+          "id": "_4o3aan78g",
+          "nome": "Leite",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 5.4017187869267165
+        },
+        {
+          "id": "_e90h7mbwi",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 3.039478918715041
+        },
+        {
+          "id": "_e2d67zpdf",
+          "nome": "Sal",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 4.694728221267418
+        }
+      ],
+      "categoria": "Categoria do Produto _4wza1gky7"
+    },
+    {
+      "id": "_ze5q9n8l9",
+      "nome": "Produto _ze5q9n8l9",
+      "descrição": "Descrição do Produto _ze5q9n8l9",
+      "ingredientes": [
+        {
+          "id": "_mjb0go3u5",
+          "nome": "Leite",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 10.934469542396396
+        },
+        {
+          "id": "_x10zqdlw9",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 8.825627742502379
+        },
+        {
+          "id": "_jdt0tptxd",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 9.004715714683218
+        },
+        {
+          "id": "_9uhjdfgxe",
+          "nome": "Sal",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 2.3527210332233186
+        },
+        {
+          "id": "_x7xpyjk23",
+          "nome": "Leite",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 4.524183703934087
+        }
+      ],
+      "categoria": "Categoria do Produto _ze5q9n8l9"
+    },
+    {
+      "id": "_qdl9a8yok",
+      "nome": "Produto _qdl9a8yok",
+      "descrição": "Descrição do Produto _qdl9a8yok",
+      "ingredientes": [
+        {
+          "id": "_cg6rmfdm1",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 5.151046578306891
+        },
+        {
+          "id": "_kpnl90c7q",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 3.327350522619065
+        },
+        {
+          "id": "_ncvtxcap5",
+          "nome": "Sal",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 2.937995968517172
+        },
+        {
+          "id": "_uswgvnkvi",
+          "nome": "Sal",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 6.338286429810837
+        },
+        {
+          "id": "_w621hupk0",
+          "nome": "Sal",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 3.1650024798017165
+        }
+      ],
+      "categoria": "Categoria do Produto _qdl9a8yok"
+    },
+    {
+      "id": "_lp29b0eca",
+      "nome": "Produto _lp29b0eca",
+      "descrição": "Descrição do Produto _lp29b0eca",
+      "ingredientes": [
+        {
+          "id": "_dlepvool5",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 1.7062041285340181
+        },
+        {
+          "id": "_34covaho9",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 2.246056617183735
+        },
+        {
+          "id": "_uynmpn4wk",
+          "nome": "Sal",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 4.004982132348298
+        },
+        {
+          "id": "_6vao53xm9",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "L",
+          "custoUnitario": 6.562319564804216
+        },
+        {
+          "id": "_jl1sx8tvz",
+          "nome": "Sal",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 4.5072678706708516
+        }
+      ],
+      "categoria": "Categoria do Produto _lp29b0eca"
+    },
+    {
+      "id": "_0np01di69",
+      "nome": "Produto _0np01di69",
+      "descrição": "Descrição do Produto _0np01di69",
+      "ingredientes": [
+        {
+          "id": "_q3jfsud6y",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 4.281021019480976
+        },
+        {
+          "id": "_wm683ayij",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 4.938421062266624
+        },
+        {
+          "id": "_np9fhpha0",
+          "nome": "Sal",
+          "UnidadeDeCompra": "L",
+          "unidadeConvertida": "KG",
+          "custoUnitario": 6.738863222281565
+        },
+        {
+          "id": "_zf9w1ysf6",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 2.252903773682572
+        },
+        {
+          "id": "c",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 8.194287869999563
+        }
+      ],
+      "categoria": "Categoria do Produto _0np01di69"
+    },
+    {
+      "id": "_dw1l5zfc8",
+      "nome": "Produto _dw1l5zfc8",
+      "descrição": "Descrição do Produto _dw1l5zfc8",
+      "ingredientes": [
+        {
+          "id": "_pjs07c6f3",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 9.922915515173152
+        },
+        {
+          "id": "_qq45uqlyl",
+          "nome": "Açúcar",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 1.463998147587703
+        },
+        {
+          "id": "_plw0xe2fb",
+          "nome": "Ovo",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "U",
+          "custoUnitario": 7.700920877327638
+        },
+        {
+          "id": "_ueajnvo1v",
+          "nome": "Sal",
+          "UnidadeDeCompra": "U",
+          "unidadeConvertida": "L",
+          "custoUnitario": 9.411198723649271
+        },
+        {
+          "id": "_0dxeomds4",
+          "nome": "Farinha",
+          "UnidadeDeCompra": "KG",
+          "unidadeConvertida": "L",
+          "custoUnitario": 7.119838694293942
+        }
+      ],
+      "categoria": "Categoria do Produto _dw1l5zfc8"
+    }
+  ]
+}
